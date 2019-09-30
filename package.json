@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "@storybook/react": "^4.1.11",
-    "react": "^16.7.0",
+    "react": "^16.10.1",
     "react-dom": "^16.7.0"
   },
   "devDependencies": {
